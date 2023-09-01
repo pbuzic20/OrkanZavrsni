@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "G1gfSL5m5HytjaVgCY0OCBBi2oNrj9ahp5BveKl0hOHtn0uvNuNq0bGu7H7v8NzAy9KxMzLpI9VyFNzdw4XwzQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\patri\\source\\repos\\ZRad\\ZRad\\ZRad.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\patri\\.nuget\\packages\\system.reactive\\6.0.0\\system.reactive.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
