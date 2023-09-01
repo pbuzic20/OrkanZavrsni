@@ -10,3 +10,15 @@ C:\Users\patri\source\repos\ZRad\OrkanDLL\obj\Debug\net6.0\OrkanDLL.dll
 C:\Users\patri\source\repos\ZRad\OrkanDLL\obj\Debug\net6.0\refint\OrkanDLL.dll
 C:\Users\patri\source\repos\ZRad\OrkanDLL\obj\Debug\net6.0\OrkanDLL.pdb
 C:\Users\patri\source\repos\ZRad\OrkanDLL\obj\Debug\net6.0\ref\OrkanDLL.dll
+C:\Users\patri\Source\Repos\OrkanZavrsni\OrkanDLL\bin\Debug\net6.0\OrkanDLL.deps.json
+C:\Users\patri\Source\Repos\OrkanZavrsni\OrkanDLL\bin\Debug\net6.0\OrkanDLL.dll
+C:\Users\patri\Source\Repos\OrkanZavrsni\OrkanDLL\bin\Debug\net6.0\OrkanDLL.pdb
+C:\Users\patri\Source\Repos\OrkanZavrsni\OrkanDLL\obj\Debug\net6.0\OrkanDLL.csproj.AssemblyReference.cache
+C:\Users\patri\Source\Repos\OrkanZavrsni\OrkanDLL\obj\Debug\net6.0\OrkanDLL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\patri\Source\Repos\OrkanZavrsni\OrkanDLL\obj\Debug\net6.0\OrkanDLL.AssemblyInfoInputs.cache
+C:\Users\patri\Source\Repos\OrkanZavrsni\OrkanDLL\obj\Debug\net6.0\OrkanDLL.AssemblyInfo.cs
+C:\Users\patri\Source\Repos\OrkanZavrsni\OrkanDLL\obj\Debug\net6.0\OrkanDLL.csproj.CoreCompileInputs.cache
+C:\Users\patri\Source\Repos\OrkanZavrsni\OrkanDLL\obj\Debug\net6.0\OrkanDLL.dll
+C:\Users\patri\Source\Repos\OrkanZavrsni\OrkanDLL\obj\Debug\net6.0\refint\OrkanDLL.dll
+C:\Users\patri\Source\Repos\OrkanZavrsni\OrkanDLL\obj\Debug\net6.0\OrkanDLL.pdb
+C:\Users\patri\Source\Repos\OrkanZavrsni\OrkanDLL\obj\Debug\net6.0\ref\OrkanDLL.dll

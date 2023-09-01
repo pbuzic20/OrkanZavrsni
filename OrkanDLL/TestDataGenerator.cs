@@ -75,9 +75,9 @@ namespace OrkanDLL
                     {
                         List<Point> pozicije = new List<Point>
                     {
-                        new Point(random.Next(400, 550), random.Next(300, 400)),
-                        new Point(random.Next(400, 550), random.Next(300, 400)),
-                        new Point(random.Next(400, 550), random.Next(300, 400)),
+                        new Point(random.Next(300, 450), random.Next(300, 400)),
+                        new Point(random.Next(300, 450), random.Next(300, 400)),
+                        new Point(random.Next(300, 450), random.Next(300, 400)),
                     };
 
                         for (int i = 0; i < 3; i++)

@@ -94,7 +94,7 @@
             lblFormation.AutoSize = true;
             lblFormation.Font = new Font("Segoe UI", 20F, FontStyle.Bold, GraphicsUnit.Point);
             lblFormation.ForeColor = SystemColors.ButtonFace;
-            lblFormation.Location = new Point(285, 166);
+            lblFormation.Location = new Point(186, 168);
             lblFormation.Name = "lblFormation";
             lblFormation.Size = new Size(117, 46);
             lblFormation.TabIndex = 11;
