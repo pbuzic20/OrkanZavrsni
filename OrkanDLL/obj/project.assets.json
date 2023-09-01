@@ -61,11 +61,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\patri\\source\\repos\\ZRad\\OrkanDLL\\OrkanDLL.csproj",
+      "projectUniqueName": "C:\\Users\\patri\\Source\\Repos\\OrkanZavrsni\\OrkanDLL\\OrkanDLL.csproj",
       "projectName": "OrkanDLL",
-      "projectPath": "C:\\Users\\patri\\source\\repos\\ZRad\\OrkanDLL\\OrkanDLL.csproj",
+      "projectPath": "C:\\Users\\patri\\Source\\Repos\\OrkanZavrsni\\OrkanDLL\\OrkanDLL.csproj",
       "packagesPath": "C:\\Users\\patri\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\patri\\source\\repos\\ZRad\\OrkanDLL\\obj\\",
+      "outputPath": "C:\\Users\\patri\\Source\\Repos\\OrkanZavrsni\\OrkanDLL\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\patri\\AppData\\Roaming\\NuGet\\NuGet.Config",

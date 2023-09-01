@@ -61,11 +61,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\patri\\source\\repos\\ZRad\\ZRad\\ZRad.csproj",
+      "projectUniqueName": "C:\\Users\\patri\\Source\\Repos\\OrkanZavrsni\\ZRad\\ZRad.csproj",
       "projectName": "ZRad",
-      "projectPath": "C:\\Users\\patri\\source\\repos\\ZRad\\ZRad\\ZRad.csproj",
+      "projectPath": "C:\\Users\\patri\\Source\\Repos\\OrkanZavrsni\\ZRad\\ZRad.csproj",
       "packagesPath": "C:\\Users\\patri\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\patri\\source\\repos\\ZRad\\ZRad\\obj\\",
+      "outputPath": "C:\\Users\\patri\\Source\\Repos\\OrkanZavrsni\\ZRad\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\patri\\AppData\\Roaming\\NuGet\\NuGet.Config",
